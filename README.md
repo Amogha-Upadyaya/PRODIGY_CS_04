@@ -26,4 +26,9 @@ The use of keyloggers can be illegal and unethical if used without explicit perm
     3. Exit - Stops the keylogger (if running) and exits the program
 
 # Sample
+#### When main.py is executed.
+![Output](https://github.com/Amogha-Upadyaya/PRODIGY_CS_04/assets/120311753/d0c65d49-14fb-4a78-a2e0-130148ae9896)
+
+#### Contents of key_log.txt
+![Key_Log_txt](https://github.com/Amogha-Upadyaya/PRODIGY_CS_04/assets/120311753/d08ac343-3731-4599-8e21-a50cf42b6d54)
 
