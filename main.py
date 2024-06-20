@@ -22,7 +22,7 @@ def main():
             else:
                 print("Keylogger is not running")
         
-        elif opt == '3':
+        elif opt == 3:
             if keylogger.listener is not None and keylogger.listener.running:
                 keylogger.stop()
             print("Exiting...")
